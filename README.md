@@ -1,6 +1,5 @@
 # Ghost Port Scanner
 
-![ghost-banner](https://user-images.githubusercontent.com/placeholder/ghost-banner.png)
 *A colorful, fast port scanner written in Python with a sleek terminal UI.*
 
 ---
